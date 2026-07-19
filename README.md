@@ -37,7 +37,7 @@
 <br />
 
 <p>
-  <a href="<Live Demo URL>"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-F72585?style=for-the-badge" /></a>
+  <a href="https://resume--roaster.vercel.app/dashboard"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-F72585?style=for-the-badge" /></a>
   <a href="#-table-of-contents"><img src="https://img.shields.io/badge/📖_Documentation-Read_Docs-4361EE?style=for-the-badge" /></a>
   <a href="https://github.com/VM-AX/ai-resume-roaster"><img src="https://img.shields.io/badge/⭐_GitHub-Star_the_Repo-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/VM-AX/ai-resume-roaster/issues/new"><img src="https://img.shields.io/badge/🐛_Report_Issue-Open_Issue-EF233C?style=for-the-badge" /></a>
@@ -294,6 +294,9 @@ bun run dev
 </details>
 
 Open [`http://localhost:5173/`](http://localhost:5173/) in your browser to see the app live. 🎉
+
+> [!TIP]
+> Don't want to run it locally? Try the hosted version instead: **[resume--roaster.vercel.app/dashboard](https://resume--roaster.vercel.app/dashboard)**
 
 ---
 
