@@ -16,10 +16,10 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/github/stars/<username>/resume-roaster?style=for-the-badge&logo=github&color=F72585" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/<username>/resume-roaster?style=for-the-badge&logo=github&color=4361EE" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/<username>/resume-roaster?style=for-the-badge&logo=github&color=4CC9F0" alt="Issues" />
-  <img src="https://img.shields.io/github/license/<username>/resume-roaster?style=for-the-badge&color=7209B7" alt="License" />
+  <img src="https://img.shields.io/github/stars/<VM-AX>/resume-roaster?style=for-the-badge&logo=github&color=F72585" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/<VM-AX>/resume-roaster?style=for-the-badge&logo=github&color=4361EE" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/<VM-AX>/resume-roaster?style=for-the-badge&logo=github&color=4CC9F0" alt="Issues" />
+  <img src="https://img.shields.io/github/license/<VM-AX>/resume-roaster?style=for-the-badge&color=7209B7" alt="License" />
 </p>
 
 <p>
