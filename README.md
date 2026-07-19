@@ -697,7 +697,7 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <br/>
 
-Made with ❤️‍🔥 and lots of ☕ by **<Author Name>**
+Made with ❤️‍🔥 and lots of ☕ by **<Author VMAX>**
 
 <sub>© 2026 Resume Roaster. All rights reserved.</sub>
 
