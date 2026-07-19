@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="/assets/banner.png" alt="Resume Roaster Banner" width="100%" />
 
@@ -16,10 +16,10 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/github/stars/<VM-AX>/resume-roaster?style=for-the-badge&logo=github&color=F72585" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/<VM-AX>/resume-roaster?style=for-the-badge&logo=github&color=4361EE" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/<VM-AX>/resume-roaster?style=for-the-badge&logo=github&color=4CC9F0" alt="Issues" />
-  <img src="https://img.shields.io/github/license/<VM-AX>/resume-roaster?style=for-the-badge&color=7209B7" alt="License" />
+  <img src="https://img.shields.io/github/stars/VM-AX/resume-roaster?style=for-the-badge&logo=github&color=F72585" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/VM-AX/resume-roaster?style=for-the-badge&logo=github&color=4361EE" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/VM-AX/resume-roaster?style=for-the-badge&logo=github&color=4CC9F0" alt="Issues" />
+  <img src="https://img.shields.io/github/license/VM-AX/resume-roaster?style=for-the-badge&color=7209B7" alt="License" />
 </p>
 
 <p>
@@ -39,8 +39,8 @@
 <p>
   <a href="<Live Demo URL>"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-F72585?style=for-the-badge" /></a>
   <a href="#-table-of-contents"><img src="https://img.shields.io/badge/📖_Documentation-Read_Docs-4361EE?style=for-the-badge" /></a>
-  <a href="<Repository URL>"><img src="https://img.shields.io/badge/⭐_GitHub-Star_the_Repo-181717?style=for-the-badge&logo=github" /></a>
-  <a href="<Repository URL>/issues/new"><img src="https://img.shields.io/badge/🐛_Report_Issue-Open_Issue-EF233C?style=for-the-badge" /></a>
+  <a href="https://github.com/VM-AX/resume-roaster"><img src="https://img.shields.io/badge/⭐_GitHub-Star_the_Repo-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/VM-AX/resume-roaster/issues/new"><img src="https://img.shields.io/badge/🐛_Report_Issue-Open_Issue-EF233C?style=for-the-badge" /></a>
 </p>
 
 </div>
@@ -205,7 +205,7 @@ flowchart LR
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <Repository URL>
+git clone https://github.com/VM-AX/resume-roaster
 cd resume-roaster
 ```
 
@@ -602,8 +602,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 ## 💬 Support
 
-- 🐛 [Open an Issue](<Repository URL>/issues/new)
-- 💡 [Start a Discussion](<Repository URL>/discussions)
+- 🐛 [Open an Issue](https://github.com/VM-AX/resume-roaster/issues/new)
+- 💡 [Start a Discussion](https://github.com/VM-AX/resume-roaster/discussions)
 - 📧 Email: `<support-email>`
 
 ---
@@ -640,9 +640,9 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <div align="center">
 
-**<Author Vmax>**
+**<Author Name>**
 
-<a href="<GitHub Profile URL>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/VM-AX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="<LinkedIn Profile URL>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="<Twitter/X Profile URL>"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:<author-email>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -655,7 +655,7 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <div align="center">
 
-<img src="https://api.star-history.com/svg?repos=<username>/resume-roaster&type=Date" alt="Star History Chart" width="80%" />
+<img src="https://api.star-history.com/svg?repos=VM-AX/resume-roaster&type=Date" alt="Star History Chart" width="80%" />
 
 </div>
 
@@ -665,8 +665,8 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <div align="center">
 
-<a href="<Repository URL>/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=<username>/resume-roaster" />
+<a href="https://github.com/VM-AX/resume-roaster/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VM-AX/resume-roaster" />
 </a>
 
 </div>
@@ -677,12 +677,12 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<username>&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VM-AX&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VM-AX&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VM-AX&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -694,7 +694,7 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <br/>
 
-Made with ❤️‍🔥 and lots of ☕ by **<Author Vmax>**
+Made with ❤️‍🔥 and lots of ☕ by **<Author Name>**
 
 <sub>© 2026 Resume Roaster. All rights reserved.</sub>
 
