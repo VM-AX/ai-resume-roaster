@@ -680,12 +680,13 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VM-AX&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VM-AX&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VM-AX&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=VM-AX&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VM-AX&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VM-AX&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -697,7 +698,7 @@ This is an open-source, self-hosted project — running it locally or on your ow
 
 <br/>
 
-Made with ❤️‍🔥 and lots of ☕ by **<Author VMAX>**
+Made with ❤️‍🔥 and lots of ☕ by **VMAX**
 
 <sub>© 2026 Resume Roaster. All rights reserved.</sub>
 
