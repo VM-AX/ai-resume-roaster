@@ -66,7 +66,7 @@ export function DashboardPreviewSection() {
           <DarkCard className="lg:col-span-7">
             <div className="flex items-start justify-between mb-4">
               <div>
-                <div className="text-[11px] uppercase tracking-wide text-white/45 font-semibold">
+                <div className="text-[11px] uppercase tracking-wide text-white/65 font-semibold">
                   Score Evolution
                 </div>
                 <div className="font-display text-base font-semibold text-white mt-1">
@@ -83,7 +83,7 @@ export function DashboardPreviewSection() {
               <div className="font-display tabular text-[44px] font-semibold tracking-tight text-white leading-none">
                 86
               </div>
-              <div className="text-[12px] text-white/50">/ 100</div>
+              <div className="text-[12px] text-white/70">/ 100</div>
             </div>
 
             <AreaChart />
@@ -91,7 +91,7 @@ export function DashboardPreviewSection() {
 
           {/* Score breakdown */}
           <DarkCard className="lg:col-span-5">
-            <div className="text-[11px] uppercase tracking-wide text-white/45 font-semibold">
+            <div className="text-[11px] uppercase tracking-wide text-white/65 font-semibold">
               Score breakdown
             </div>
             <div className="font-display text-base font-semibold text-white mt-1 mb-4">
@@ -105,7 +105,7 @@ export function DashboardPreviewSection() {
               { label: "Action verbs", value: 79 },
             ].map((b, i) => (
               <div key={b.label} className="mb-3 last:mb-0">
-                <div className="flex justify-between text-[11px] text-white/55 mb-1">
+                <div className="flex justify-between text-[11px] text-white/75 mb-1">
                   <span>{b.label}</span>
                   <span className="tabular text-white font-semibold">{b.value}</span>
                 </div>
@@ -130,7 +130,7 @@ export function DashboardPreviewSection() {
           <DarkCard className="lg:col-span-7">
             <div className="flex items-center justify-between mb-4">
               <div>
-                <div className="text-[11px] uppercase tracking-wide text-white/45 font-semibold">
+                <div className="text-[11px] uppercase tracking-wide text-white/65 font-semibold">
                   Bullet rewrite
                 </div>
                 <div className="font-display text-base font-semibold text-white mt-1">
@@ -144,10 +144,10 @@ export function DashboardPreviewSection() {
 
             <div className="grid grid-cols-1 md:grid-cols-[1fr_24px_1fr] gap-3 items-center">
               <div className="rounded-xl bg-white/[0.03] border border-white/[0.08] p-3">
-                <div className="text-[9px] uppercase tracking-wide text-white/45 font-semibold mb-1">
+                <div className="text-[9px] uppercase tracking-wide text-white/65 font-semibold mb-1">
                   Original
                 </div>
-                <div className="text-[12.5px] text-white/70 leading-snug">
+                <div className="text-[12.5px] text-white/85 leading-snug">
                   Built dashboards for the analytics team
                 </div>
               </div>
@@ -178,7 +178,7 @@ export function DashboardPreviewSection() {
                 {["Weak verbs", "Missing keywords", "Inconsistent dates"].map((s) => (
                   <div
                     key={s}
-                    className="text-[11.5px] text-white/65 py-1 border-b border-white/[0.04] last:border-0"
+                    className="text-[11.5px] text-white/80 py-1 border-b border-white/[0.04] last:border-0"
                   >
                     {s}
                   </div>
@@ -195,7 +195,7 @@ export function DashboardPreviewSection() {
                   (s) => (
                     <div
                       key={s}
-                      className="text-[11.5px] text-white/65 py-1 border-b border-white/[0.04] last:border-0"
+                      className="text-[11.5px] text-white/80 py-1 border-b border-white/[0.04] last:border-0"
                     >
                       {s}
                     </div>
@@ -239,13 +239,13 @@ function KpiCard({ className = "", icon: Icon, label, value, suffix, delta, acce
         >
           <Icon size={13} />
         </div>
-        <span className="text-[11px] text-white/55">{label}</span>
+        <span className="text-[11px] text-white/75">{label}</span>
       </div>
       <div className="flex items-baseline gap-1">
         <span className="font-display tabular text-3xl font-semibold tracking-tight text-white">
           {value}
         </span>
-        {suffix && <span className="text-[12px] text-white/45">{suffix}</span>}
+        {suffix && <span className="text-[12px] text-white/65">{suffix}</span>}
       </div>
       {delta && (
         <div className="inline-flex items-center gap-1 mt-2 px-2 py-0.5 rounded-full bg-[rgba(143,179,156,0.14)] text-[#8FB39C] text-[10px] font-semibold tabular">

@@ -52,7 +52,7 @@ export function CTASection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 0.6, delay: 0.1 }}
-          className="text-white/65 text-base sm:text-lg mt-5 max-w-xl mx-auto leading-relaxed"
+          className="text-white/80 text-base sm:text-lg mt-5 max-w-xl mx-auto leading-relaxed"
         >
           Upload your resume now. Get your ATS score, fixable issues, and AI rewrites
           in under 15 seconds.
@@ -97,7 +97,7 @@ export function CTASection() {
           whileInView={{ opacity: 1 }}
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 0.6, delay: 0.25 }}
-          className="mt-6 inline-flex items-center gap-1.5 text-[12px] text-white/50"
+          className="mt-6 inline-flex items-center gap-1.5 text-[12px] text-white/70"
         >
           <ShieldCheck size={13} className="text-[#8FB39C]" />
           No credit card · We never store your resume PDF

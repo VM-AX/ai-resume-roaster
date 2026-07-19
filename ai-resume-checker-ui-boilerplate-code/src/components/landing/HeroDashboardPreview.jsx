@@ -31,10 +31,10 @@ export function HeroDashboardPreview() {
       >
         <div className="flex items-center justify-between mb-3">
           <div>
-            <div className="text-[10px] uppercase tracking-[0.16em] text-white/45 font-semibold">
+            <div className="text-[10px] uppercase tracking-[0.16em] text-white/65 font-semibold">
               ATS Readiness
             </div>
-            <div className="text-[11px] text-white/55 mt-0.5">Senior_Frontend.pdf</div>
+            <div className="text-[11px] text-white/75 mt-0.5">Senior_Frontend.pdf</div>
           </div>
           <div className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-[rgba(143,179,156,0.14)] text-[#8FB39C] text-[10px] font-semibold">
             <span className="h-1.5 w-1.5 rounded-full bg-[#8FB39C]" />
@@ -73,7 +73,7 @@ export function HeroDashboardPreview() {
             <div className="font-display tabular text-[42px] font-semibold tracking-tight text-white leading-none">
               {SCORE}
             </div>
-            <div className="text-[10px] text-white/45 mt-0.5">out of 100</div>
+            <div className="text-[10px] text-white/65 mt-0.5">out of 100</div>
           </div>
         </div>
 
@@ -103,7 +103,7 @@ export function HeroDashboardPreview() {
             <AlertCircle size={12} />
           </div>
           <div className="text-[11px] font-semibold text-white">Top issues</div>
-          <div className="ml-auto text-[10px] text-white/45 tabular">5</div>
+          <div className="ml-auto text-[10px] text-white/65 tabular">5</div>
         </div>
 
         {[
@@ -129,7 +129,7 @@ export function HeroDashboardPreview() {
                     : "#8FB39C",
               }}
             />
-            <div className="text-[11px] text-white/75 truncate">{it.label}</div>
+            <div className="text-[11px] text-white/85 truncate">{it.label}</div>
           </motion.div>
         ))}
       </motion.div>
@@ -157,10 +157,10 @@ export function HeroDashboardPreview() {
           </div>
         </div>
 
-        <div className="text-[10px] uppercase tracking-wide text-white/40 font-semibold mb-1">
+        <div className="text-[10px] uppercase tracking-wide text-white/60 font-semibold mb-1">
           Before
         </div>
-        <div className="text-[11px] text-white/55 line-through leading-snug">
+        <div className="text-[11px] text-white/75 line-through leading-snug">
           Worked on dashboards for the team
         </div>
         <div className="flex items-center gap-1.5 my-2 text-white/30">

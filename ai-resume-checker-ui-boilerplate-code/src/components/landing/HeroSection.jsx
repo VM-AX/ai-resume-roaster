@@ -37,7 +37,7 @@ export function HeroSection() {
             >
               Beat the ATS.
               <br />
-              <span className="text-white/50">Land more</span>{" "}
+              <span className="text-white/70">Land more</span>{" "}
               <span
                 style={{
                   backgroundImage:
@@ -56,7 +56,7 @@ export function HeroSection() {
               initial={{ opacity: 0, y: 14 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, delay: 0.15 }}
-              className="text-white/65 text-base sm:text-lg lg:text-[19px] mt-6 max-w-[540px] leading-relaxed"
+              className="text-white/80 text-base sm:text-lg lg:text-[19px] mt-6 max-w-[540px] leading-relaxed"
             >
               Upload your resume. Get an instant ATS score, fixable issues, and AI-rewritten bullets
               that actually sound like you — built for engineers, by engineers.
@@ -100,7 +100,7 @@ export function HeroSection() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.6, delay: 0.4 }}
-              className="flex flex-wrap items-center gap-x-6 gap-y-2 mt-8 text-[12px] text-white/55"
+              className="flex flex-wrap items-center gap-x-6 gap-y-2 mt-8 text-[12px] text-white/70"
             >
               <span className="inline-flex items-center gap-1.5">
                 <ShieldCheck size={13} className="text-[#8FB39C]" />

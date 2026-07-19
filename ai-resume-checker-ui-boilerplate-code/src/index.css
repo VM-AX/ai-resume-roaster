@@ -25,13 +25,14 @@
 }
 
 :root,
-[data-theme="light"] {
+[data-theme="light"],
+.landing-page {
   --bg: #f4f4f0;
   --surface: #ffffff;
   --surface-2: #fafaf7;
   --border: rgba(15, 17, 21, 0.06);
   --ink: #0f1115;
-  --ink-muted: #6b7280;
+  --ink-muted: #374151;
   --accent: #5b7c6a;
   --accent-strong: #2f4a3a;
   --accent-soft: #e6efe8;
